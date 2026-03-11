@@ -4,7 +4,7 @@ Deskripsi   : Subclass untuk Persegi
 Pembuat     : Syahrafi Ahmad Pradika
 Tanggal     : 9 maret 2026
 */
-ppublic class Persegi extends BangunDatar {
+public class Persegi extends BangunDatar {
 
     private double sisi;
 
